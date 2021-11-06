@@ -1,0 +1,11 @@
+S_No,Name,Type,Duration,Fees,Max_Participant,Participant_Joined,Status
+1,Game1,Nifty,Week,100,100,18,Waiting
+2,Game2,NYSE,Week,500,5,5,Active
+3,Game3,Crypto,Month,1000,16,16,Active
+4,Game4,Crypto,Month,1000,16,16,Active
+5,Game5,Commodity,Day,250,40,40,Active
+6,Game6,Nifty,Week,800,5,5,Active
+7,Game7,Nifty,Week,100,100,85,Active
+8,Game8,Currency,Week,40,1000,890,Active
+9,Game9,Nifty,Week,800,5,5,Active
+10,Game10,Nifty,Week,800,5,5,Active
